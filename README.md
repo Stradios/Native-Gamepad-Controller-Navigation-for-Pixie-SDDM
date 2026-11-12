@@ -1,4 +1,5 @@
 # Native Gamepad/Controller Navigation for Pixie SDDM
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 A guide to adding full gamepad navigation (D-pad, buttons) to the [Pixie SDDM](https://github.com/xCaptaiN09/pixie-sddm) login screen — useful for TV/HTPC setups (e.g. alongside KDE Plasma Bigscreen) where there's no keyboard or mouse attached.
 
